@@ -26,6 +26,11 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+# commitlint
+
+Lint commit messages
+helps your team adhere to a commit convention
+
 ## Installation
 
 ```bash
